@@ -3,12 +3,12 @@
 
 A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
-## Features
+#Features
 - Two-player game
 - Turn-based logic
 - Reset option
 
-## Technologies Used
+#Technologies Used
 - HTML
 - CSS
 - JavaScript
